@@ -122,7 +122,8 @@
 
 2. *Way2*
 
-*Create a **PULL Request** from github*
+**Create a **PULL Request** from github**
+
 ---
 
 <br>
