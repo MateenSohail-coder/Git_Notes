@@ -1,4 +1,4 @@
-<mark style="background-color: lightgreen ; padding:10px">Main Branch</mark>
+<mark style="background-color: lightgreen ; padding:11px">Main Branch</mark>
 
 # Git Notes
 * **Clone** : To Open any repository.
