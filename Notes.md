@@ -1,4 +1,6 @@
-<mark style="background-color: lightgreen ; padding:11px">Features Branch</mark>
+```bash
+Features
+```
 
 # Git Notes
 * **Clone** : To Open any repository.
